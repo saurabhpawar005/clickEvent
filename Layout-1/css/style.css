@@ -1,0 +1,7 @@
+*{
+    box-sizing: border-box;
+}
+
+.stdForm label{
+    font-weight: 700;
+}
